@@ -1,4 +1,4 @@
-body {
-	background-image: url("https://imgur.com/a/os27I");
+html { 
+  background: url(https://imgur.com/a/os27I)
+  background-size: cover;
 }
-
