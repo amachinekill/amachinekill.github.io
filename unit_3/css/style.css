@@ -1,3 +1,4 @@
-body {background-image: images/sitebg.jpg;
+body {
+	background-image: ("images/sitebg.jpg");
 }
 
